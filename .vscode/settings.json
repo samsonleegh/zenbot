@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "source /Users/samsonlee/zenbot/bin/activate",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
